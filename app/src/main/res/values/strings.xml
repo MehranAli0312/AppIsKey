@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Appsiakey</string>
+    <string name="count_text">Count</string>
+    <string name="textCounter">Text Counter</string>
+    <string name="enterTextHere">Enter text here</string>
+</resources>
